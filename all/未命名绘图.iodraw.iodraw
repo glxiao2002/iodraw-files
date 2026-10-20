@@ -262,7 +262,12 @@
             <mxPoint x="460" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mk2Mv_ZA9_fhtUFGdP2r-56">
+          <mxGeometry x="0.6308" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1430" as="sourcePoint" />
             <mxPoint x="510" y="1380" as="targetPoint" />
