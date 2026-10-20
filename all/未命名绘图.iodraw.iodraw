@@ -251,15 +251,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1430" as="sourcePoint" />
             <mxPoint x="690" y="1430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="1430" />
-            </Array>
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mk2Mv_ZA9_fhtUFGdP2r-55">
+          <mxGeometry x="0.7348" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1430" as="sourcePoint" />
-            <mxPoint x="460" y="1300" as="targetPoint" />
+            <mxPoint x="460" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mk2Mv_ZA9_fhtUFGdP2r-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mk2Mv_ZA9_fhtUFGdP2r-56">
